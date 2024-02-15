@@ -1,6 +1,8 @@
 /* Geral Styles */
 * {
   color: #25282e;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 1px;
 }
 
 a,
